@@ -1,0 +1,134 @@
+PROMPTS QUE ESCRIBIÓ CLAUDE PARA "UN MUNDO SIN RUIDO" (@soydiegoosorio)
+CÓMO USARLOS: pégale este archivo a Claude Code (con Higgsfield conectado) y dile "haz este video con mi clon".
+Image 1 = una foto de tu cara · Image 2 = tu ficha de cuerpo entero con la ropa del video (Claude la crea con GPT Image 2.6).
+Seedance 2.5 en Higgsfield: 9:16, 480p, con audio. Cambia [YOUR LOOK] por cómo eres tú.
+Image 3 = la estación de tren (Claude la crea con GPT Image 2.6) e Image 4 = el andén de ensueño.
+
+==============================================================================
+FICHA DEL PERSONAJE (GPT Image 2.6, 9:16)
+==============================================================================
+
+CHARACTER REFERENCE SHEET, real high-resolution photography, not illustration, not CGI. 16:9 overall, four equal panels side by side on one seamless cool neutral light-grey studio paper, daylight-balanced soft studio light, 5600K, neutral white balance, tack-sharp.
+
+THE CHARACTER: EXACTLY the man of image 1 (image 3 shows him in three-quarter view): [YOUR LOOK: glasses or not, hair, beard], both eyes the same size. Body as image 2: tall and fit but LEAN and slim, NOT muscular, NOT bulky, normal arms, head and face naturally sized.
+
+OUTFIT (semi-elegant city look): a long black wool overcoat reaching just below the knees, worn open, with long sleeves and a classic notch collar; underneath, a charcoal-grey fine-knit crew-neck sweater; black tailored straight-leg trousers; polished black leather lace-up shoes; a slim black leather shoulder bag on a strap across his body.
+
+PANELS, left to right:
+1. Full body, front view, standing straight, arms relaxed, head to toe in frame.
+2. Full body, side profile view facing left, head to toe in frame.
+3. Full body, back view, the same outfit seen from behind, head to toe in frame.
+4. Close-up portrait, head and shoulders, front view, calm natural expression, eyes to the camera.
+
+Same lighting, same outfit and same person in all four panels. No headphones. No text, no labels, no logos, no brand marks anywhere.
+
+==============================================================================
+PARTE A: EL RUIDO Y EL ESCAPE
+==============================================================================
+
+A premium, high-budget cinematic commercial shot on 35mm motion picture film (Kodak Vision3 250D), vertical 9:16. Real actors on a real, working railway station, filmed by a professional crew. Every shot is at human eye level (about 1.6 m high) or lower, handheld with subtle natural shake. No overhead, crane or drone angles. Real lenses, real depth of field, natural light, clean motivated cuts. Fast, punchy pacing. Real-time speed throughout.
+
+REFERENCES: image 1 = the man's face ([YOUR LOOK: glasses or not, hair, beard]). Image 2 = the same man's character sheet with his outfit (long black overcoat, slim black leather shoulder bag). Image 3 = the station: same iron-and-glass roof, hanging clock, brick wall, rusty horn loudspeaker, metal-mesh barriers with yellow signs, and the small coffee cart whose sign reads CAFÉ.
+
+STATION (from image 3, weekday morning rush): the crowd moves in every direction, like a real station: some people walk toward the camera, some walk away, some cut across diagonally, a few stand still on their phones. The repair area is a small patch against the brick wall on the right, fully enclosed by metal-mesh barriers with yellow warning signs. Only the workers are inside it, and he always walks on the open public platform outside it.
+
+ACT 1 - THE NOISE (fast cuts)
+
+[0s-1s] Close shot through the barrier mesh: a worker in a hi-vis vest pounds the old floor tiles with a breaker hammer, dust puffing up, stone chips jumping.
+
+[1s-1.6s] Medium shot: a businessman in a grey suit shouts angrily into his phone while hot coffee spills from the paper cup in his other hand; the man from image 1 walks past in the soft-focus background.
+
+[1.6s-2.1s] Ground-level close shot: rolling suitcases and hurried feet rush past the camera, wheels clattering over the stone floor joints, motion blur.
+
+[2.1s-3.4s] Medium shot: a mother in a beige trench coat holds a toddler in a blue jacket who cries loudly, red-faced, while she tries to calm him; a worker in a hi-vis vest in the background.
+
+[3.4s-4.4s] Close-up of the man from image 1: he closes his eyes, gives a small tired sigh and presses two fingers to his temple.
+
+[4.4s-5.3s] Medium shot: at the small coffee cart whose sign reads CAFÉ, the barista hands paper cups to commuters, the espresso machine hissing.
+
+[5.3s-5.9s] Medium shot: the man walks along the busy platform, worn out, rubbing the back of his neck.
+
+[5.9s-6.4s] Low angle on the rusty horn loudspeaker on the brick wall as it crackles into an announcement.
+
+[6.4s-8s] Eye-level shot at the platform edge: a red commuter train pulls in along the track, horn blasting long and loud while it moves, the rush of air lifting scarves and coats.
+
+ACT 2 - THE ESCAPE
+
+[8s-9s] Medium shot: he takes a slow breath, opens his slim black leather shoulder bag and takes out cream retro over-ear headphones with a cream band and no logo.
+
+[9s-10s] Medium shot: he puts the headphones on in one natural movement, over his glasses, and closes his eyes.
+
+[10s-11s] Extreme close-up of his eyes behind the glasses: closed, perfectly calm, then they slowly open; warm golden light begins to touch his face.
+
+CHARACTER: exactly the man from images 1 and 2 in every shot: same face, [YOUR LOOK: glasses or not, hair, beard], long black wool overcoat worn open, charcoal-grey fine-knit crew-neck sweater, black tailored trousers, polished black leather lace-up shoes, slim black leather shoulder bag. Tall and lean, not muscular. Headphones: in his bag until 8s; on his head from 9.5s. Never in two places at once.
+
+PERFORMANCE: he reacts like a real commuter who is mildly worn down, not like an actor: a hard blink, a tightening around the eyes, a quiet sigh, a hand to his neck or temple. No grimacing, no exaggerated frowns, no eye-rolls. He never looks into the camera.
+
+PEOPLE: every person is a real, individual human: varied ages, skin tones, face shapes and body types, each moving at their own pace and in their own direction. No identical faces, no posing, no theatrical expressions.
+
+REALISM: natural human movement with real weight and timing, natural blinking and breathing, anatomically correct hands with correct finger placement, real cloth movement, real motion blur, fine film grain, natural skin texture. Nothing is ever static.
+
+COLOUR: cool, slightly desaturated blue-grey station with warm amber sunbeams; from 10s a hint of warm golden light on his face.
+
+SOUND (loud, clear, close-miked, perfectly in sync with each source; no scene is silent):
+0-9s: dense station ambience with crowd chatter and footsteps. Loud and clearly audible: the breaker hammer's heavy pounding, the businessman's angry shouting into the phone (muffled, words not intelligible), suitcase wheels clattering over every floor joint, the toddler crying loudly, the espresso machine hissing, a long loud train horn while the train moves in with rumbling wheels.
+6s-9.5s: a calm female announcer in neutral Latin American Spanish over the crackling loudspeaker: "Atención, por favor. El tren de las ocho y quince tiene un retraso de veinte minutos. Disculpe las molestias."
+9.5s-11s: as the headphones go on, all sound gradually softens and muffles, as if heard from underwater, and a gentle airy music begins. There is no abrupt silence.
+The only voices are the crowd, the businessman, the toddler and the announcer. The man does not speak.
+
+Avoid: overhead, crane or drone shots, walking on the tracks, walking inside the barriers, a posed or fake-looking vendor, everyone walking in the same direction, grimacing or awkward facial expressions, looking into the camera, headphones in two places at once, weak or missing sound effects, frozen frames, face, hair or outfit changes, CGI look, waxy skin, extra fingers, subtitles, watermark, brand logos.
+
+==============================================================================
+PARTE B: EL ENSUEÑO Y EL REGALO
+==============================================================================
+
+A premium, high-budget cinematic commercial shot on 35mm motion picture film, vertical 9:16. Real actors, filmed by a professional crew. Every shot is at human eye level (about 1.6 m high) or lower, handheld with subtle natural shake. No overhead, crane or drone angles. Real lenses, real depth of field, natural light, clean motivated cuts. Calm pacing in the dreamland, then real-time speed back at the station.
+
+REFERENCES: image 1 = the man's face ([YOUR LOOK: glasses or not, hair, beard]). Image 2 = the same man's character sheet with his outfit (long black overcoat). Image 3 = the real station. Image 4 = the dreamland platform: the same station architecture overgrown with white flowers and vines, peach-pink sky, mirror-still water in the sunken track bed, meadow of white daisies.
+
+ACT 2 - THE DREAMLAND
+
+[0s-1.4s] Medium close-up of the man from image 1 wearing cream retro over-ear headphones with no logo, eyes open, a soft, peaceful, happy smile forming. Behind him, in soft focus, the station is transforming: the commuters soften into a light scattering of warm golden pollen that drifts upward, the roof glass dissolves into a peach-pink sky, white flowers and vines grow over the iron.
+
+[1.4s-3s] Slow eye-level pull-back to a wide shot: he stands alone on exactly the dreamland platform from image 4, among the flowering iron arches, the mirror-still water in the sunken track bed beside the platform.
+
+[3s-4.4s] Low side shot: he crouches at the edge of the platform and lets his fingertips brush the white daisies of the meadow, smiling.
+
+[4.4s-6.4s] Medium-wide tracking shot: he walks slowly along the stone platform, away from the edge, then turns around with his arms slightly open, enjoying the wind, which lifts the hem of his long black coat; the meadow sways and petals drift past. He never steps into the water.
+
+[6.4s-7.4s] Wide shot: he stands still on the platform with his arms slightly open, white wildflowers out of focus in the foreground.
+
+[7.4s-8.3s] Close-up: a small pale butterfly flutters in with natural, slightly erratic wingbeats and lands on his cream earcup; he smiles with his eyes closed and touches the headphones with one hand.
+
+ACT 3 - THE GIFT
+
+[8.3s-9.5s] The same close-up, unbroken: behind him in soft focus, the warm dreamland fades back into the real, cool, crowded station from image 3. He lifts the headphones off with one hand and turns his head slightly to the side, his expression shifting from peaceful to attentive.
+
+[9.5s-10.5s] His point of view, looking down: directly in front of him stands a 6-year-old girl in a yellow raincoat, with a dark chin-length bob, a fringe and a small pink hair clip. She presses both hands over her ears, crying softly, with wet eyes, a trembling lip and small sniffles. Her mother is a step behind, out of focus, on her phone.
+
+[10.5s-11.5s] Over-the-shoulder shot from behind the girl: he looks at her with a gentle, understanding expression and softly says "Ooooh", lips rounded, the headphones in his hands, and kneels to her height.
+
+[11.5s-12.5s] Medium shot, eye level: he holds the headphones by the headband with both hands, opening them wide, and lowers them gently over the girl's head. As the earcups come close, the girl lowers her own hands.
+
+[12.5s-13.2s] Close-up of the girl: the earcups settle cleanly over her ears; his hands rest lightly on the outside of the earcups for a moment, then let go.
+
+[13.2s-14s] Close-up of the girl, eye level: her sniffles stop, her shoulders relax, she blinks away the last tear and a natural, shy smile of relief spreads across her face as she looks at him. Hold on her smile to the end.
+
+CHARACTER: exactly the man from images 1 and 2 in every shot: same face, [YOUR LOOK: glasses or not, hair, beard], long black wool overcoat worn open, charcoal-grey fine-knit crew-neck sweater, black tailored trousers, polished black leather lace-up shoes, slim black leather shoulder bag. Tall and lean, not muscular. Headphones: on his head until 8.5s; after that only in his hands until they go on the girl. Never in two places at once.
+
+PERFORMANCE: understated, natural micro-expressions; no grimacing, no exaggerated expressions. He never looks into the camera. The girl moves and cries like a real child: small, uneven, unplanned movements.
+
+REALISM: natural human movement with real weight and timing, natural blinking and breathing, anatomically correct adult and child hands with correct finger placement, real cloth movement, real motion blur, fine film grain, natural skin texture. Nothing is ever static.
+
+VFX: the golden pollen is warm and sparse, glowing only where light hits it. Never a dense cloud, grey ash or glitter. Every change is gradual and organic.
+
+COLOUR: 0-8.3s warm Kodak Portra 400 (peach-gold highlights, soft halation, lifted shadows). From 8.3s cool blue-grey station again, with soft warm light on the girl's smile.
+
+SOUND (clear, perfectly in sync; no scene is silent):
+0-8.3s: gentle, warm ambient music (airy, no vocals) with soft wind, rustling flowers, water lapping and distant birdsong. At 7.4s a delicate, understated chime as the butterfly lands.
+8.3-9.5s: the music fades and the full station noise rises back, with a train horn in the distance.
+9.5-11.5s: the girl's soft crying and sniffles are clearly audible over the station ambience, then the man's soft "Ooooh".
+12.5-14s: as the headphones cover the girl's ears, the sound muffles and a faint echo of the dreamland music returns under her smile.
+The only voices are the crowd, the girl's crying and the man's "Ooooh". No voices during the dreamland.
+
+Avoid: walking in the water or on the tracks, grimacing or awkward facial expressions, looking into the camera, the girl's hands trapped under the earcups, incorrect hand or finger placement, headphones in two places at once, a dense particle cloud, frozen frames, face, hair or outfit changes, CGI look, waxy skin, extra fingers, text, subtitles, watermark, brand logos.
